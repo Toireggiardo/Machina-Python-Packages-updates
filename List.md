@@ -187,5 +187,5 @@ webencodings==0.5
 Werkzeug==0.12.2
 widgetsnbextension==2.0.0
 xgboost==0.6a2
-xlrd==1.0.0
+xlrd==1.1.0
 zipline==1.1.0
