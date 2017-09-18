@@ -189,3 +189,4 @@ widgetsnbextension==2.0.0
 xgboost==0.6a2
 xlrd==1.1.0
 zipline==1.1.0
+
