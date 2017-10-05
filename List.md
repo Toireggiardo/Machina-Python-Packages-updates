@@ -1,4 +1,3 @@
-# machina-python-packages-updates
 alembic==0.7.7
 apache-beam==2.0.0
 appdirs==1.4.3
