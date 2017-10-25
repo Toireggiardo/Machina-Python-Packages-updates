@@ -1,9 +1,9 @@
-# machina-python-packages-updates
 alembic==0.7.7
 apache-beam==2.0.0
 appdirs==1.4.3
 avro==1.8.2
 backports-abc==0.5
+backports.functools-lru-cache==1.4
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.4.0.2
 backports.weakref==1.0rc1
@@ -14,6 +14,7 @@ bokeh==0.12.6
 boto==2.48.0
 Bottleneck==1.2.1
 brewer2mpl==1.4.1
+bt==0.2.5
 cachetools==2.0.1
 chest==0.2.3
 click==6.7
@@ -31,6 +32,7 @@ empyrical==0.2.2
 entrypoints==0.2.3
 enum34==1.1.6
 exc==0.91
+ffn==0.3.3
 Flask==0.12.2
 Flask-Cors==3.0.2
 funcsigs==1.0.2
@@ -114,7 +116,7 @@ numexpr==2.6.2
 numpy==1.11.3
 oauth2client==3.0.0
 olefile==0.44
-pandas==0.18.1
+pandas==0.19.2
 pandas-datareader==0.5.0
 pandocfilters==1.4.1
 partd==0.3.8
@@ -148,7 +150,9 @@ pycairo==1.10.0
 pyfolio==0.5.1
 Pygments==2.2.0
 pygpu==0.6.9
+pykalman==0.9.5
 pyparsing==2.2.0
+PyPrind==2.11.1
 pystan==2.14.0.0
 python-dateutil==2.6.1
 pytz==2017.2
@@ -173,6 +177,7 @@ subprocess32==3.2.7
 sympy==1.1.1
 TA-Lib==0.4.9
 tables==3.3.0
+tabulate==0.8.1
 tenacity==4.4.0
 tensorflow==1.2.1
 terminado==0.6
